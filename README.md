@@ -9,7 +9,7 @@ Provides [catppuccin themes](https://github.com/catppuccin) for the [Makie.jl](h
 ## Installation
 
 ```julia
-import Pkg; Pkg.add(url="https://github.com/fgerick/CatpuccinMakieThemes.jl.git")
+import Pkg; Pkg.add(url="https://github.com/fgerick/CatppuccinMakieThemes.jl.git")
 ```
 
 ## Example
