@@ -1,14 +1,15 @@
 name = "CatppuccinMakieThemes"
 uuid = "c37c50e1-20da-4a65-b669-80e6e9abe7a3"
-authors = ["Felix <felixgerick@gmail.com> and contributors"]
 version = "1.0.0-DEV"
+authors = ["Felix <felixgerick@gmail.com> and contributors"]
 
 [deps]
 ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
 FixedPointNumbers = "53c48c17-4a7d-5ca2-90c5-79b7896eea93"
-MakieCore = "20f20a25-4f0e-4fdf-b5d1-57303727442b"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 
 [compat]
+Makie = "0.24.13"
 julia = "1"
 
 [extras]

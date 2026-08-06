@@ -2,7 +2,7 @@ module CatppuccinMakieThemes
 
 using ColorTypes
 using FixedPointNumbers
-using MakieCore: Theme
+using Makie: Theme
 
 struct CatppuccinColor
 	RGB::RGB
